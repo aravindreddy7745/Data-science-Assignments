@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 19 17:33:11 2023
-
-@author: sksha
-"""
-
 import numpy as np
 import pandas as pd
 score = np.array([[34],[36],[36],[38],[38],[39],[39],[40],[40],[41],[41],[41],[41],[42],[42],[45],[49],[56]])
