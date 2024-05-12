@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 16 12:18:12 2023
-
-@author: sksha
-"""
-
 import numpy as np
 
 sample_count = 2000
