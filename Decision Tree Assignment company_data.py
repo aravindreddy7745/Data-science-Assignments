@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: sksha
-"""
-
 #load the data
 import pandas as pd
 df = pd.read_csv("Company_Data.csv")
