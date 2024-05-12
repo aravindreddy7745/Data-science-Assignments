@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: sksha
-"""
-
 import pandas as pd
 import scipy.stats as stats
 df = pd.read_csv("Costomer+OrderForm.csv")
