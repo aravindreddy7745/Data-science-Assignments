@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  4 13:15:40 2023
-
-@author: sksha
-"""
-
 #Build a simple linear regression model by performing EDA and do necessary transformations and select the best model using R or Python.
 
 #1) Delivery_time -> Predict delivery time using sorting time 
