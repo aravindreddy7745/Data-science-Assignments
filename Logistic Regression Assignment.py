@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 15 19:12:27 2023
-
-@author: sksha
-"""
-
 import pandas as pd
 import numpy as np
 df = pd.read_csv("bank-full order.csv")
