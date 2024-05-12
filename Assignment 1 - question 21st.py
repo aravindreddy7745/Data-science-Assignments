@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 27 13:55:32 2023
-
-@author: sksha
-"""
-
 import pandas as pd
 df = pd.read_csv("Cars.csv")
 df
