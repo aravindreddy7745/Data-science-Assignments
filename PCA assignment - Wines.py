@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: sksha
-"""
-
 # Load the dataset
 import pandas as pd
 df = pd.read_csv('wine.csv')
