@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: sksha
-"""
 #Import the Data
 import numpy as np
 import pandas as pd
