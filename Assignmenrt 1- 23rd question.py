@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 27 15:15:26 2023
-
-@author: sksha
-"""
-
 import scipy.stats as stats
 
 # Sample size
