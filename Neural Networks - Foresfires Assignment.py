@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: sksha
-"""
-
 # Loading the dataset
 import pandas as pd
 df=pd.read_csv("forestfires.csv")
