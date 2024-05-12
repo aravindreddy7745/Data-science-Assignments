@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 27 14:31:14 2023
-
-@author: sksha
-"""
-
 import scipy.stats as stats
 
 # Confidence levels (as percentages)
