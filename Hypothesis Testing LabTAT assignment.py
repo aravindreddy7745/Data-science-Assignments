@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep  4 21:15:50 2023
-
-@author: sksha
-"""
-
 import pandas as pd
 df = pd.read_csv("LabTAT.csv")
 df
