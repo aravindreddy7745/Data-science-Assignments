@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@author: sksha
-"""
-
 # Importing necessary libraries
 import pandas as pd
 from scipy.stats import chi2_contingency
