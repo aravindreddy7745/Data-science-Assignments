@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 17 12:30:59 2023
-
-@author: sksha
-"""
-
 import scipy.stats as stats
 
 # Constants
