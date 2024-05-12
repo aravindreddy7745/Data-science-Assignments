@@ -1,4 +1,3 @@
-
 # Load the dataset
 import pandas as pd
 df = pd.read_csv("gas_turbines.csv")
