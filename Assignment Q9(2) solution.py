@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 20 11:58:34 2023
-
-@author: sksha
-"""
-
 import pandas as pd
 df = pd.read_csv("Q9_b (1).csv")
 df
