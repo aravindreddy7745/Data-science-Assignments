@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: sksha
-"""
-
 import numpy as np
 import pandas as pd
 df = pd.read_csv("crime_data.csv")
