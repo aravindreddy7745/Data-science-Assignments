@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 11 12:34:36 2023
-
-@author: sksha
-"""
-
 import numpy as np
 import pandas as pd
 df = pd.read_csv("50_Startups.csv")
