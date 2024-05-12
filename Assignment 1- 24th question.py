@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 27 12:58:51 2023
-
-@author: sksha
-"""
-
 import scipy.stats as stats
 
 # Given data
