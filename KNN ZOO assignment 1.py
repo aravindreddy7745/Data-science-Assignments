@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 31 18:36:09 2023
-
-@author: sksha
-"""
 import numpy as np
 import pandas as pd
 df = pd.read_csv("Zoo.csv")
