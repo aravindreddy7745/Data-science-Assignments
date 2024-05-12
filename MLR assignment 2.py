@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep  1 19:02:42 2023
-
-@author: sksha
-"""
-
 #importing the data
 import numpy as np
 import pandas as pd
