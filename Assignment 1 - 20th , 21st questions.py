@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 16 22:02:31 2023
-
-@author: sksha
-"""
-
 #20TH QUESTION
 import scipy.stats as stats
 
