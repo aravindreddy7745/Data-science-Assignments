@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 31 21:11:59 2023
-
-@author: sksha
-"""
-
 import numpy as np
 import pandas as pd
 df = pd.read_csv("glass (1).csv")
